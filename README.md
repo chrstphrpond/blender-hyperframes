@@ -2,7 +2,7 @@
 
 A Claude Code skill. Claude builds and renders 3D shots in Blender, then edits the video in HyperFrames.
 
-Written by Christopher Pond Maquidato, October 2026.
+Built with Claude Code by Christopher Pond Maquidato, October 2026.
 
 ## Install on Windows
 
